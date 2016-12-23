@@ -1,0 +1,20 @@
+0.  refers to a lung disease that is otherwise known as silicosis. It is the longest\
+    word in the English language published in a dictionary, the \
+    Oxford English Dictionary
+1.  It returns resource usage measures for functions that are called
+2.  16 members.
+3.  TODO
+4.  The function loops through each characher of the opened file\
+    and creates a word consisting only of alphabetical characters\
+    and apostrophes. It then passes that word to the spell checker
+
+5.  fscanf might include unwanted charachters such as numbers\
+    because it reads each word as a whole.
+6.  TODO
+7.  I used a trie. Each node contains two variables: 1 is status confirming if that\
+    letter marks the end of a word. Second is the allocation of 27 other nodes.
+8.  It took about 15 seconds.
+9.  I was sure to initialise the root only once instead of when checking, loading \
+    and unloading.
+10. Yes, memorry has to be allocated by looping through each letter of a word \
+    when loading. Each letter also has to be looped through for checking.
