@@ -1,0 +1,10 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+0. TODO. The game allows diminsions that range between 3x3 and 9x9.
+1. TODO. The games bord is representedd by an array corresponding to the index number of different columns. 
+         array value grid[0][0] is the first row of the first column etc.
+2. TODO. The greet() ; function is called.
+3. TODO. I need to implement 4 functions, namely: init~cs50/hacker3/fifteen, draw, move, won
